@@ -17,6 +17,8 @@ Link: https://www.udemy.com/course/deep-reinforcement-learning/
 * Step 3.
 
   build two neural networks for the two Critic models and two neural networks for the two Critic targets
+![step3](https://user-images.githubusercontent.com/28240052/208121558-0e99fe1f-d2a0-4bf4-876d-847de5faad05.png)
+  
   
 * Step 4.
 
