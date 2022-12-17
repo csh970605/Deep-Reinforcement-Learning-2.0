@@ -103,9 +103,11 @@ This repository is a record of what I studied in a course on building intensifie
 
 * [Half_Cheetah]
 * [Ant]
+* [Half_Humanoid]
 
 [Lecture_Link]: https://www.udemy.com/course/deep-reinforcement-learning/
 [Half_Cheetah]: https://drive.google.com/file/d/1t3lvSKqQEJetq-B41ePkNrMGqz0sQcqg/view?usp=share_link
 [Ant]: https://drive.google.com/file/d/15IbzVt7QgPZTNAOYctAV_v7wXADOAiUB/view?usp=share_link
+[Half_Humanoid]: https://drive.google.com/file/d/150Jk2HHk2fr3C3BwRUvzuRtmDWce8rXZ/view?usp=share_link
 
 
