@@ -101,7 +101,7 @@ Link: https://www.udemy.com/course/deep-reinforcement-learning/
 
 # Result video link
 
-* Half_Cheetah
+* [Half_Cheetah]
 * Ant : https://drive.google.com/file/d/15IbzVt7QgPZTNAOYctAV_v7wXADOAiUB/view?usp=share_link
 
 [Half_Cheetah]: https://drive.google.com/file/d/1t3lvSKqQEJetq-B41ePkNrMGqz0sQcqg/view?usp=share_link
