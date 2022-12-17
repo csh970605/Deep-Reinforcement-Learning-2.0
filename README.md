@@ -31,7 +31,7 @@ Link: https://www.udemy.com/course/deep-reinforcement-learning/
 * Step 5.
 
   From the next state s’, the Actor target plays the next action a’
-  ![Step5](https://user-images.githubusercontent.com/28240052/208210893-ca8545c7-1ee1-4cea-a7d7-95eb208ae425.png)
+  ![Step5](https://user-images.githubusercontent.com/28240052/208210893-ca8545c7-1ee1-4cea-a7d7-95eb208ae425.png
 
   
 * Step 6.
@@ -98,6 +98,11 @@ Link: https://www.udemy.com/course/deep-reinforcement-learning/
 # What is Policy Gradient?
 
 ![policy gradient](https://user-images.githubusercontent.com/28240052/208212442-8f09816a-78b1-4f90-aef6-9236a187f0b0.png)
+
+# Result video link
+
+* Half Cheetah : https://drive.google.com/file/d/1t3lvSKqQEJetq-B41ePkNrMGqz0sQcqg/view?usp=share_link
+* Ant : https://drive.google.com/file/d/15IbzVt7QgPZTNAOYctAV_v7wXADOAiUB/view?usp=share_link
 
 
 
